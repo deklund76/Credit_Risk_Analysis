@@ -7,12 +7,12 @@ The goal of this analysis is to assess a variety of machine learning models to d
 
 Below are screenshots of accuracy scores, confusion matrices, and classification reports. For classifcation reports, relevant abbreviations are as follows: pre (precision) rec (recall/sensitivity) spe (specificity) and f1 (harmonic mean of pre and rec).
 
-* [!Naive_Random_Oversampling.png](https://github.com/deklund76/Credit_Risk_Analysis/blob/main/resources/Naive_Random_Oversampling.png) _Naive Random Oversampling_
-* [!SMOTE.png](https://github.com/deklund76/Credit_Risk_Analysis/blob/main/resources/SMOTE.png) _SMOTE_
-* [!Undersampling.png](https://github.com/deklund76/Credit_Risk_Analysis/blob/main/resources/Undersampling.png) _Undersampling_
-* [!SMOTEENN.png](https://github.com/deklund76/Credit_Risk_Analysis/blob/main/resources/SMOTEENN.png) _SMOTEENN_
-* [!Random_Forest.png](https://github.com/deklund76/Credit_Risk_Analysis/blob/main/resources/Random_Forest.png) _Random Forest_
-* [!AdaBoost.png](https://github.com/deklund76/Credit_Risk_Analysis/blob/main/resources/AdaBoost.png) _AdaBoost_
+* ![Naive_Random_Oversampling.png](https://github.com/deklund76/Credit_Risk_Analysis/blob/main/resources/Naive_Random_Oversampling.png) _Naive Random Oversampling_
+* ![SMOTE.png](https://github.com/deklund76/Credit_Risk_Analysis/blob/main/resources/SMOTE.png) _SMOTE_
+* ![Undersampling.png](https://github.com/deklund76/Credit_Risk_Analysis/blob/main/resources/Undersampling.png) _Undersampling_
+* ![SMOTEENN.png](https://github.com/deklund76/Credit_Risk_Analysis/blob/main/resources/SMOTEENN.png) _SMOTEENN_
+* ![Random_Forest.png](https://github.com/deklund76/Credit_Risk_Analysis/blob/main/resources/Random_Forest.png) _Random Forest_
+* ![AdaBoost.png](https://github.com/deklund76/Credit_Risk_Analysis/blob/main/resources/AdaBoost.png) _AdaBoost_
 
 ## Summary
 
